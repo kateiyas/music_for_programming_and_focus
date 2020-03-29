@@ -2,8 +2,8 @@
 
 Collection of audio resources for keeping up focus in too noisy or too silent environments. 
 
-* mynoise.net (collection of excellent noise generators, try this one for Blade Runner: https://mynoise.net/NoiseMachines/november2019SoundscapeGenerator.php)
-* musicforprogramming.net (downloadable collection of ~1h mixed tracks)
+* [mynoise.net](http://www.mynoise.net) (collection of excellent noise generators, try this one for Blade Runner: https://mynoise.net/NoiseMachines/november2019SoundscapeGenerator.php)
+* [musicforprogramming.net](http://musicforprogramming.net) (collection of ~1h mixed tracks available for download)
 
 ### Lo-Fi music
 
