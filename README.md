@@ -7,7 +7,9 @@ Collection of audio resources for keeping up focus in too noisy or too silent en
 
 ### Lo-Fi music
 
-This got popular with students during the 2010s. No idea why this is working so well. 
+Very chill tracks that got popular for focus, studying during the 2010s. 
+
+(TODO: add collection)
 
 ### Video game OSTs
 
@@ -21,6 +23,7 @@ Most video game scores are written for keeping up tense focus without becoming t
 * Riven
 * Myst
 
+(TODO: add collection)
 
 What doesn't work: 
 * most music with vocals (except for those that aren't easy to parse, like gutterals)
