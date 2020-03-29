@@ -23,7 +23,7 @@ Most video game scores are written for keeping up tense focus without becoming t
 
 
 What doesn't work: 
-* most music with vocals (except for gutterals, try melodic death metal)
+* most music with vocals (except for those that aren't easy to parse, like gutterals)
 * classical music (far too captivating / emotional)
 * movie scores (far too emotional)
 * most tracks labeled "ambient" (too esoteric)
