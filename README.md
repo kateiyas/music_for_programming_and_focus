@@ -31,4 +31,4 @@ What doesn't work:
 * movie scores (far too emotional)
 * most tracks labeled "ambient" (too esoteric)
 
-Some further good points are made here: http://musicforprogramming.net/?about
+Further good points are made here: http://musicforprogramming.net/?about
